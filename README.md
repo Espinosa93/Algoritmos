@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/SEU_USUARIO.png" width="120px" style="border-radius: 50%;" alt="Avatar"/>
+  <img src="https://avatars.githubusercontent.com/DAVID_ESPINOSA.png" width="120px" style="border-radius: 50%;" alt="Avatar"/>
   <h1>Olá, eu sou o David! 👋</h1>
   <p>🎓 Estudante de TI & Focado em Lógica de Programação.</p>
   
@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Sobre Mim
-- 📚 Estudando os fundamentos essenciais da programação e ciência da computação.
+- 📚 Estudando os fundamentos essenciais da programação.
 - 💡 Focado em desenvolver **pensamento computacional** e resolver problemas lógicos.
 - 🎯 Praticando a criação de algoritmos eficientes e construindo meus primeiros códigos aqui no GitHub!
 
