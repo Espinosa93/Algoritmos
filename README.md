@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/DAVID_ESPINOSA.png" width="120px" style="border-radius: 50%;" alt="Avatar"/>
   <h1>Olá, eu sou o David! 👋</h1>
-  <p>Este respositório é focado em Lógica de Programação.</p>
+  <p>Este repositório é focado em Lógica de Programação.</p>
   
   <p>
     <a href="https://linkedin.com/in/david-espinosadle" target="_blank">
