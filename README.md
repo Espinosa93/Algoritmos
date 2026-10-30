@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ O que estou estudando
+### 💻 Linguagens
 
 <div align="center">
 
